@@ -76,7 +76,7 @@
 <body>
     <div class="container">
         <h1>Will You Be My Valentine? <span class="heart">❤️</span></h1>
-        <img src="your-image1.jpg" alt="Cute photo of us">
+        <img src="H&S.jpg" alt="Cute photo of us">
         <p>From the moment we met, you’ve made my heart skip a beat. You bring so much joy and love into my life! 🌸</p>
         <p>So, will you be my Valentine? 💕</p>
         <div class="buttons">
@@ -85,7 +85,7 @@
         </div>
         <div id="message" class="hidden">
             <p>Yay! You just made me the happiest person ever! 💖🥰</p>
-            <img src="your-image2.jpg" alt="Another cute memory together">
+            <img src="S&H.jpg" alt="Another cute memory together">
         </div>
     </div>
     <script>
